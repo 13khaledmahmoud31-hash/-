@@ -1,0 +1,7 @@
+athkar-muslim (المشروع)
+├── pubspec.yaml                  <-- الملف 1
+├── lib/
+│   └── main.dart                 <-- الملف 2
+└── .github/
+    └── workflows/
+        └── build-apk.yml         <-- الملف 3 (ملف البناء التلقائي)

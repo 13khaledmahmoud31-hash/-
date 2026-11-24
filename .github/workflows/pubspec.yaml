@@ -1,0 +1,19 @@
+name: athkar_muslim
+description: تطبيق أذكار المسلم الشامل
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  shared_preferences: ^2.3.2
+  adhan: ^2.0.0-nullsafety.2
+  geolocator: ^13.0.1
+  flutter_compass: ^0.8.0
+  hijri: ^3.0.0
+  flutter_local_notifications: ^18.0.1
+  timezone: ^0.9.4
